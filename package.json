@@ -1,0 +1,10 @@
+{
+  "name": "openlibrary-types",
+  "main": "index.js",
+  "author": "Kai Chang <kaijchang@gmail.com>",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "json-schema-to-typescript": "^10.1.5",
+    "promisfy": "^1.2.0"
+  }
+}
